@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...python teacher
-- 📫 How to reach me ...whatsapp no-8428428441
+- 📫 How to reach me ...whatsapp no-9342990820
 
 <!---
 SivaBalajivit/SivaBalajivit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
